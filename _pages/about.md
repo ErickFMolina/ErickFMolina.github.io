@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hello!"
+excerpt: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About me
 
 Currently, I am a first year PhD student in Agricultural and Applied Economics in the University of Wisconsin-Madison. 
 
