@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Erick F Molina"
-  avatar           : "erickfmolina_4.png"
+  avatar           : "/images/erickfmolina_4.png"
   bio              : "PhD Student"
   location         : "Madison, WI, US"
   employer         :
