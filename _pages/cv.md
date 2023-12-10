@@ -12,4 +12,7 @@ paperurl: 'http://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf'
 
 You can find my CV here
 
+{% for post in site.publications reversed %}
+  {% include CV_ErickFMolina_Dec23.pdf %}
+{% endfor %}
   
