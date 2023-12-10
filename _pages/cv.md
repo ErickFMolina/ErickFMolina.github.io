@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[You can find my CV here :)](http://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf)
+<embed src="https://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf" type="application/pdf" />
