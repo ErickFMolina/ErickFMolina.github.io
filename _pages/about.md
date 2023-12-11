@@ -10,4 +10,4 @@ redirect_from:
 
 ## Hello!
 
-I am a development economist in the making. Currently I am first year PhD student in the University of Wisconsin-Madison's AAE program. I hold a double degree in Economics and International Relations from ITAM (Mexico City).
+I am a development economist in the making. Currently, I am a first year PhD student in the University of Wisconsin-Madison's AAE program. I hold a double degree in Economics and International Relations from ITAM (Mexico City). I have previously worked as a Research Fellow at ITAM and Northwestern University's Kellogg School of Business.
