@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf" type="application/pdf" />
+You can see my CV [here](https://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf).
