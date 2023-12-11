@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hello!
+## Hello!
 
-I am a first year PhD student in Agricultural and Applied Economics in the University of Wisconsin-Madison.
-
-I hold a B.A. in Economics and a B.A. in International Relations from ITAM. 
+I am a development economist in the making. Currently I am first year PhD student in the University of Wisconsin-Madison's AAE program. I hold a double degree in Economics and International Relations from ITAM (Mexico City).
