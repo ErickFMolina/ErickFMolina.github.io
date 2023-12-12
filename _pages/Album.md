@@ -11,8 +11,11 @@ Here are some pictures of my experience in research.
 
 Me implementing an RCT at the Mexico City Labor Court (Summer, 2022).
 
-Kellogg Research Fellows (Spring, 2022).
-
+![styled-image](/images/sean_erick_jacopo.jpg){: .align-left}
 Me with Professors Sean Higgins and Jacopo Ponticelli (Summer, 2022).
 
+![styled-image](/images/research__ccl.jpg){: .align-left}
 The core research team at the Mexico City Conciliation Center (Fall, 2022).
+
+![styled-image](/images/research_team.jpg){: .align-left}
+Improving Labor Courts research team (Fall, 2022).
