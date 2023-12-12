@@ -10,7 +10,7 @@ redirect_from:
 Here are some pictures of my experience in research.
 
 ![image-left](/images/implementing_erick.jpg){: .align-left }
-Me implementing an RCT at the Mexico City Labor Court (Summer, 2022).
+Me implementing an RCT at the Mexico City Labor Court (Summer, 2018).
 
 ![image-left](/images/sean_erick_jacopo.jpg){: .align-left }
 Me with Professors Sean Higgins and Jacopo Ponticelli (Summer, 2022).
