@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Album"
+title: "Research Album"
 permalink: /album/
 author_profile: true
 redirect_from:
   - /album
 ---
-
-# Research Album
 
 Here are some pictures of my experience in research.
 
