@@ -9,14 +9,14 @@ redirect_from:
 
 Here are some pictures of my experience in research.
 
-![styled-image](/images/implementing_erick.jpg){: .align-left }
+![image-left](/images/implementing_erick.jpg){: .align-left }
 Me implementing an RCT at the Mexico City Labor Court (Summer, 2022).
 
-![styled-image](/images/sean_erick_jacopo.jpg){: .align-left }
+![image-left](/images/sean_erick_jacopo.jpg){: .align-left }
 Me with Professors Sean Higgins and Jacopo Ponticelli (Summer, 2022).
 
-![styled-image](/images/research__ccl.jpg){: .align-left }
+![image-left](/images/research__ccl.jpg){: .align-left }
 The core research team at the Mexico City Conciliation Center (Fall, 2022).
 
-![styled-image](/images/research_team.jpg){: .align-left }
+![image-left](/images/research_team.jpg){: .align-left }
 Improving Labor Courts research team (Fall, 2022).
