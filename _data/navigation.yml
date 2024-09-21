@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /files/CV_ErickFMolina_Sep24.pdf
 
+  - title: "CV (Español)"
+    url: /files/CV_ErickFMolina_Sep24_es.pdf
+
   - title: "Album"
     url: /album/
 
