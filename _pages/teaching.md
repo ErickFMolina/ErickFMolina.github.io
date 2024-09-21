@@ -22,4 +22,5 @@ Introduction to Agricultural and Applied Econometrics (Fall 2024) at ** Universi
 R & Stata for Econometric Analysis for RAs (Spring 2024) at **Instituto Tecnológico Autónomo de México (ITAM) **
 
 Economics II - Principles of Macroeconomics (2016 - 2019) at **Instituto Tecnológico Autónomo de México (ITAM) **
+  - Economics II [course](https://ErickFMolina.github.io/files/CV_ErickFMolina_Dec23.pdf).
 
