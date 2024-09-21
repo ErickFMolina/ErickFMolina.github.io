@@ -13,13 +13,13 @@ redirect_from:
 
 ### Undergraduate Level
 
-Applied Microeconometrics (Summer 2024)
+Applied Microeconometrics (Summer 2024) at **Instituto Tecnológico Autónomo de México (ITAM) **
 
 ###  Undergraduate Level Teaching Assistant
 
-Introduction to Agricultural and Applied Econometrics (Fall 2024)
+Introduction to Agricultural and Applied Econometrics (Fall 2024) at ** University of Wisconsin - Madison **
 
-R & Stata for Econometric Analysis for RAs (Spring 2024)
+R & Stata for Econometric Analysis for RAs (Spring 2024) at **Instituto Tecnológico Autónomo de México (ITAM) **
 
-Economics II - Principles of Macroeconomics (2016 - 2019)
+Economics II - Principles of Macroeconomics (2016 - 2019) at **Instituto Tecnológico Autónomo de México (ITAM) **
 
