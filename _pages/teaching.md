@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+## Teaching
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+### Undergraduate Level
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Applied Microeconometrics (Fall 2024)
 
-### Log Files
+###  Undergraduate Level Teaching Assistant
 
+Introduction to Agricultural and Applied Econometrics
+R & Stata for Econometric Analysis for RAs
+Economics II (Principles of Macroeconomics)
 
