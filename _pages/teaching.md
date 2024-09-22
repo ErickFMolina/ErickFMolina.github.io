@@ -12,7 +12,7 @@ redirect_from:
 ### Undergraduate Level
 
 Applied Microeconometrics (Summer 2024) at **Instituto Tecnológico Autónomo de México (ITAM)**
-  - Link to the course.
+  - [Link](https://ErickFMolina.github.io/_pages/econ10516-summer24.pdf) to the course.
 
 ###  Undergraduate Level Teaching Assistant
 
