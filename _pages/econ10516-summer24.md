@@ -14,14 +14,16 @@ redirect_from:
 
 ### Material
 
-## Intro to statistical programs
-  - Stata
-  - R
-
-## Course
-
   1. Probability and Statistical Inference
-     - 
-  2. Review of Econometrics
+  2. Introduction to Statistical Software
+  3. Review of Econometrics
+  5. Model Validity
+  7. Models with Binary or Categorical Dependent Variables
+  8. Panel Data
+  9. The Causal Problem
+  10. Randomized Control Trials (RCTs)
+  11. Instrumental Variables
+  12. Difference-in-Differences
+  13. Regression Discontinuity
 
 
