@@ -12,6 +12,7 @@ redirect_from:
 ### Undergraduate Level
 
 Applied Microeconometrics (Summer 2024) at **Instituto Tecnológico Autónomo de México (ITAM)**
+  - Link to the course.
 
 ###  Undergraduate Level Teaching Assistant
 
