@@ -11,7 +11,7 @@ redirect_from:
 ### Administrative Data
   - [Syllabus](https://ErickFMolina.github.io/files/ECON10516_S24_syllabus.pdf)
   - [First class](https://ErickFMolina.github.io/files/00_first_class.pdf)
-  - [Good practices](https://ErickFMolina.github.io/files/ECON10516_S24_good_practices.pdf)
+  - [Best practices](https://ErickFMolina.github.io/files/ECON10516_S24_good_practices.pdf)
 
 ### Material
 
