@@ -6,6 +6,9 @@ main:
   - title: "CV (Español)"
     url: /files/CV_ErickFMolina_Sep24_es.pdf
 
+  - title: "Research"
+    url: /research/
+
   - title: "Teaching"
     url: /teaching/
 
