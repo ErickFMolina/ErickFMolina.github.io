@@ -9,7 +9,7 @@ redirect_from:
 
 ### Own Research
 
-*In progress.*
+Labour Justice Reform in Mexico: Progress and Challenges, with J. Sadka (_In progress_)
 
 ### Research Assistantships
 
