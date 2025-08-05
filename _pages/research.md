@@ -9,7 +9,10 @@ redirect_from:
 
 ### Own Research
 
-Labour Justice Reform in Mexico: Progress and Challenges, with J. Sadka (_In progress_)
+ Labour Justice Reform in Mexico: Progress and Challenges, with J. Sadka (_In progress_)
+
+ The Impact of COVID-19 on Who Goes to Court: The Russian Case, with Kathryn Hendley, and Evgeniia Mitrokhina (_In progress_)
+
 
 ### Research Assistantships
 
