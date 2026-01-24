@@ -9,15 +9,21 @@ redirect_from:
 ---
 
 
-### Undergraduate Level
+### Undergraduate Level Main Instructor
 
 Applied Microeconometrics (Summer 2024) at **Instituto Tecnológico Autónomo de México (ITAM)**
   - [Link](/econ10516-summer24/) to the course.
 
+### Masters Level Teaching Assistant
+
+Applied Microeconomic Theory (Fall 2025) at **University of Wisconsin - Madison**
+  - *In progress*.
+
 ###  Undergraduate Level Teaching Assistant
 
-Introduction to Agricultural and Applied Econometrics (Fall 2024) at **University of Wisconsin - Madison**
-  - *In progress*.
+Introduction to Agricultural and Applied Econometrics  at **University of Wisconsin - Madison**
+  - Fall 2024 *In progress*.
+  - Spring 2025 *In progress*.
 
 R & Stata for Econometric Analysis for RAs (Spring 2023) at **Instituto Tecnológico Autónomo de México (ITAM)**
   - You can find the syllabus [here](https://ErickFMolina.github.io/files/ra_metrics.pdf).
