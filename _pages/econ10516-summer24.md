@@ -10,7 +10,7 @@ redirect_from:
 
 ### Administrative Data
   - [Syllabus](https://ErickFMolina.github.io/files/ECON10516_S24_syllabus.pdf)
-  - [Day 1](https://ErickFMolina.github.io/files/00_first_class.pdf)
+  - [Day 1](https://ErickFMolina.github.io/files/ECON10516_S24_00_first_class.pdf)
   - [Best practices](https://ErickFMolina.github.io/files/ECON10516_S24_good_practices.pdf)
 
 ### Material
@@ -18,13 +18,13 @@ redirect_from:
   1. Probability and Statistical Inference
   2. Introduction to Statistical Software
   3. Review of Econometrics
-  5. Model Validity
-  7. Models with Binary or Categorical Dependent Variables
-  8. Panel Data
-  9. The Causal Problem
-  10. Randomized Control Trials (RCTs)
-  11. Instrumental Variables
-  12. Difference-in-Differences
-  13. Regression Discontinuity
+  4. [Model Validity](https://ErickFMolina.github.io/files/ECON10516_S24_04_model_validity.pdf)
+  5. [Models with Binary or Categorical Dependent Variables](https://ErickFMolina.github.io/files/ECON10516_S24_05_cat_depvars.pdf)
+  6. Panel Data
+  7. The Causal Problem
+  8. Randomized Control Trials (RCTs)
+  9. Instrumental Variables
+  10. Difference-in-Differences
+  11. Regression Discontinuity
 
 
