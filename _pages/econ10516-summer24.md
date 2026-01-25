@@ -15,13 +15,15 @@ redirect_from:
 
 ### Material
 
+The course will be taught in person. Presentations will be provided at the end of each topic as a review of what was presented. Note that presentations do not substitute the full class content.
+
   1. Probability and Statistical Inference
   2. Introduction to Statistical Software
   3. Review of Econometrics
   4. [Model Validity](https://ErickFMolina.github.io/files/ECON10516_S24_04_model_validity.pdf)
   5. [Models with Binary or Categorical Dependent Variables](https://ErickFMolina.github.io/files/ECON10516_S24_05_cat_depvars.pdf)
-  6. Panel Data
-  7. The Causal Problem
+  6. [Panel Data](https://ErickFMolina.github.io/files/ECON10516_S24_06_panel_data.pdf)
+  7. [The Causal Problem](https://ErickFMolina.github.io/files/ECON10516_S24_07_causality.pdf)
   8. Randomized Control Trials (RCTs)
   9. Instrumental Variables
   10. Difference-in-Differences
