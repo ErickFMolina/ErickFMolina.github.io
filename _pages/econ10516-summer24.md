@@ -26,7 +26,7 @@ The course will be taught in person. Presentations will be provided at the end o
   7. [The Causal Problem](https://ErickFMolina.github.io/files/ECON10516_S24_07_causality.pdf)
   8. [Randomized Controlled Trials (RCTs)](https://ErickFMolina.github.io/files/ECON10516_S24_08_RCTs.pdf)
   9. [Instrumental Variables](https://ErickFMolina.github.io/files/ECON10516_S24_09_iv.pdf)
-  10. Difference-in-Differences
-  11. Regression Discontinuity
+  10. [Difference-in-Differences](https://ErickFMolina.github.io/files/ECON10516_S24_10_diff_in_diff.pdf)
+  11. [Regression Discontinuity](https://ErickFMolina.github.io/files/ECON10516_S24_11_rdd.pdf)
 
 
