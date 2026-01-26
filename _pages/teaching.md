@@ -17,7 +17,7 @@ Applied Microeconometrics (Summer 2024) at **Instituto Tecnológico Autónomo de
 ### Masters Level Teaching Assistant
 
 Applied Microeconomic Theory (Fall 2025) at **University of Wisconsin - Madison**
-  - *In progress*.
+  - [Link](/aae635-fall2025/) to the course.
 
 ###  Undergraduate Level Teaching Assistant
 
