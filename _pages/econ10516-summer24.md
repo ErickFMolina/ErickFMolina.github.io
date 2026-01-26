@@ -17,9 +17,13 @@ redirect_from:
 
 The course will be taught in person. Presentations will be provided at the end of each topic as a review of what was presented. Note that presentations do not substitute the full class content.
 
-  1. Probability and Statistical Inference
+  1. [Probability and Statistical Inference](https://ErickFMolina.github.io/files/ECON10516_S24_01_prob.pdf)
   2. Introduction to Statistical Software
-  3. Review of Econometrics
+    - [R](https://ErickFMolina.github.io/files/ECON10516_S24_01_r.pdf)
+    - [Stata](https://ErickFMolina.github.io/files/ECON10516_S24_02_stata.pdf)
+  3. Review of Econometrics:
+    - [Part 1](https://ErickFMolina.github.io/files/ECON10516_S24_03_econometrics1.pdf)
+    - [Part 2](https://ErickFMolina.github.io/files/ECON10516_S24_03_econometrics2.pdf)
   4. [Model Validity](https://ErickFMolina.github.io/files/ECON10516_S24_04_model_validity.pdf)
   5. [Models with Binary or Categorical Dependent Variables](https://ErickFMolina.github.io/files/ECON10516_S24_05_cat_depvars.pdf)
   6. [Panel Data](https://ErickFMolina.github.io/files/ECON10516_S24_06_panel_data.pdf)
