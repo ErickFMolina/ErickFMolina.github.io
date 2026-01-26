@@ -24,8 +24,8 @@ The course will be taught in person. Presentations will be provided at the end o
   5. [Models with Binary or Categorical Dependent Variables](https://ErickFMolina.github.io/files/ECON10516_S24_05_cat_depvars.pdf)
   6. [Panel Data](https://ErickFMolina.github.io/files/ECON10516_S24_06_panel_data.pdf)
   7. [The Causal Problem](https://ErickFMolina.github.io/files/ECON10516_S24_07_causality.pdf)
-  8. Randomized Control Trials (RCTs)
-  9. Instrumental Variables
+  8. [Randomized Controlled Trials (RCTs)](https://ErickFMolina.github.io/files/ECON10516_S24_08_RCTs.pdf)
+  9. [Instrumental Variables](https://ErickFMolina.github.io/files/ECON10516_S24_09_iv.pdf)
   10. Difference-in-Differences
   11. Regression Discontinuity
 
