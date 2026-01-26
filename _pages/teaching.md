@@ -22,8 +22,8 @@ Applied Microeconomic Theory (Fall 2025) at **University of Wisconsin - Madison*
 ###  Undergraduate Level Teaching Assistant
 
 Introduction to Agricultural and Applied Econometrics  at **University of Wisconsin - Madison**
+  - Spring 2025: [Link](/aae101-s2025/) to the course.
   - Fall 2024 *In progress*.
-  - Spring 2025 *In progress*.
 
 R & Stata for Econometric Analysis for RAs (Spring 2023) at **Instituto Tecnológico Autónomo de México (ITAM)**
   - You can find the syllabus [here](https://ErickFMolina.github.io/files/ra_metrics.pdf).
