@@ -1,25 +1,23 @@
 ---
-layout: archive
-title: "Research Album"
+layout: efm
+title: "Album"
+nav: album
 permalink: /album/
-author_profile: true
 redirect_from:
   - /album
 ---
 
-Here are some pictures of my experience in research.
-
-![image-left](/images/implementing_erick.jpg){: .align-left }
-Me implementing an RCT at the Mexico City Labor Court (Summer, 2018).
-
-![image-left](/images/fta_work.jpg){: .align-left }
-Implementing a survey about financial technology adoption in small retail stores in Mexico (Summer, 2022).
-
-![image-left](/images/sean_erick_jacopo.jpg){: .align-left }
-Me with Professors Sean Higgins and Jacopo Ponticelli (Summer, 2022).
-
-![image-left](/images/research__ccl.jpg){: .align-left }
-The core research team at the Mexico City Conciliation Center (Fall, 2022).
-
-![image-left](/images/research_team.jpg){: .align-left }
-Improving Labor Courts research team (Fall, 2022).
+<div class="page">
+<section class="pagehead"><div class="wrap"><h1>Album</h1><p>Some pictures of my experience in research.</p></div></section>
+<section class="block plain">
+<div class="wrap">
+<div class="album">
+<figure><img src="/images/implementing_erick.jpg" alt="Erick implementing an RCT at the Mexico City Labor Court" loading="lazy"><figcaption><span>Summer 2018</span>Implementing an RCT at the Mexico City Labor Court.</figcaption></figure>
+<figure><img src="/images/fta_work.jpg" alt="Survey work in small retail stores in Mexico" loading="lazy"><figcaption><span>Summer 2022</span>Implementing a survey about financial technology adoption in small retail stores in Mexico.</figcaption></figure>
+<figure><img src="/images/sean_erick_jacopo.jpg" alt="Erick with Professors Sean Higgins and Jacopo Ponticelli" loading="lazy"><figcaption><span>Summer 2022</span>With Professors Sean Higgins and Jacopo Ponticelli.</figcaption></figure>
+<figure><img src="/images/research__ccl.jpg" alt="Core research team at the Mexico City Conciliation Center" loading="lazy"><figcaption><span>Fall 2022</span>The core research team at the Mexico City Conciliation Center.</figcaption></figure>
+<figure><img src="/images/research_team.jpg" alt="Improving Labor Courts research team" loading="lazy"><figcaption><span>Fall 2022</span>Improving Labor Courts research team.</figcaption></figure>
+</div>
+</div>
+</section>
+</div>

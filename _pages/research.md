@@ -1,24 +1,32 @@
 ---
-layout: archive
+layout: efm
 title: "Research"
+nav: research
 permalink: /research/
-author_profile: true
 redirect_from:
   - /research
 ---
 
-### Own Research
-
- Labour Justice Reform in Mexico: Progress and Challenges, with J. Sadka (_In progress_)
-
- The Impact of COVID-19 on Who Goes to Court: The Russian Case, with Kathryn Hendley, and Evgeniia Mitrokhina (_In progress_)
-
-
-### Research Assistantships
-
-I have collaborated in the following papers, either performing econometric analysis or in the field:
-
-  - Higgins, S. [Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico](https://seankhiggins.com/assets/pdf/higgins_FinancialTechnologyAdoption.pdf). _American Economic Review_ 114(11), 2024.
-  - Sadka, J., E. Seira and C. Woodruff. [Information and Bargaining through Agents: Experimental Evidence from Mexico’s Labor Courts](https://watermark.silverchair.com/rdae003.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3AwggNsBgkqhkiG9w0BBwagggNdMIIDWQIBADCCA1IGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMEHcPpxTtVI5Q5jqFAgEQgIIDI1uUukGqx4dzzvs3VcOFfoDq8G73_I00CTdUA7meBj7hZAi5qw6Om2E67YvLgDhJxbCx6AjswVfus5Q-NXv_WcP5ADeNFccM0vauRH-eMuf6JgVZBfylXbhq97d2s9vFfLBKaez2bu5PuRVZICG_1HIfJTG-Bh8CesBVJiBfOMa4Ti4ZMqVexmpISxAf8lhUoxfjn1mpErIIf8D6XKdwmGnMLvj2fnqRCgDPnqreaFDER6-Y-Ga1VNW3r-Ih2xvelJBIxYG9YffRLUlng0zCwWP0OGKXNAOOeBny3QgeXh8s2aUqE2ZjysrcdU7eqjrCoHSianeS7hFBbqVYxjM2NKnOJdyyRmSFc_EMjqGY6d2xHKuN5Rn-B2v1PsyCQMa4VDUVI_sVCmxqI7ZwUQGTicpHJZdMlz1JQpFd5aT8KLB6F2gOJ4QjLEBV68n4rZ13ziRgCq28fwnsPQ7NC4Ypp1j8Z4jlqmFI_cHrjJ4kO8EANZd_ZEMb4zfhFoMalt1BenZz6eeBzwHNUWeF3itpV93t1qN5MwmtzIdr-UHeXreug5Q00ngdQAEw0q7Da8w5PuL4Jot21Sowykom9ZblmVskiLPUIsAsTHy22l5UTlf-EH_MDlxAK0afSHWfsMk4Jb24g77wOud0q5i-r0EhENanaSWKbQJH7gzEmHh0oBmhVlu03_PldRRfT0gziGJ07ID2htBsaNdi17JG_jdhgy6isuBG2DhePJAhSeHFf4T5UQc4V5H4_TupOTBzbvrdONW1HlG7D-ObmsOJGrWRK_73Yqg6DJd4M5JQhBiVhzqIhP38bdEe4ez6-LwFXiFUjohNz-7apcgZWzwsG22QMGzkj14tGAVMPPmdbz5JZ1d-QfAKoF7couBYP-LWTCNeCCHX_h22lTjYiiJrltXBrSEFfqAgfWVtxjylzTTvqIuUmpyugMDPpLjrwPxHu16R1xKi_eYCeudgEsKywJbr8ldl3HUgZnJEVctDrXdR7cojGAx3qS_cq_IskavHsBVaEetP-zrGEfomfB_8Y9yywp9ejCoyPDbwQwNfBpR1Eir415pO), _Review of Economic Studies_, 2024.
-
-
+<div class="page">
+<section class="pagehead"><div class="wrap"><h1>Research</h1><p>Labor justice, conciliation, and institutions in Mexico.</p></div></section>
+<section class="block plain">
+<div class="wrap">
+<div class="content">
+<h3>Publications</h3>
+<div class="paper">
+<div class="t">Labour Justice Reform in Mexico: Progress and Challenges</div>
+<div class="m"><span class="tag red">Forthcoming</span>with Joyce Sadka · <a href="https://digitalcommons.osgoode.yorku.ca/cllpj/"><em>Comparative Labor Law &amp; Policy Journal</em></a></div>
+</div>
+<h3>Research assistance</h3>
+<div class="paper">
+<div class="t"><a href="https://seankhiggins.com/assets/pdf/higgins_FinancialTechnologyAdoption.pdf">Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico</a></div>
+<div class="m"><span class="tag navy">AER</span>Sean Higgins · <em>American Economic Review</em> 114(11), 2024</div>
+</div>
+<div class="paper">
+<div class="t"><a href="https://doi.org/10.1093/restud/rdae003">Information and Bargaining through Agents: Experimental Evidence from Mexico's Labor Courts</a></div>
+<div class="m"><span class="tag navy">ReStud</span>Joyce Sadka, Enrique Seira, and Christopher Woodruff · <em>Review of Economic Studies</em>, 2024</div>
+</div>
+</div>
+</div>
+</section>
+</div>

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.nav == "home" %}Erick F Molina{% else %}{{ page.title }} · Erick F Molina{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/efm.css' | relative_url }}">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="mono" href="{{ '/' | relative_url }}">EM<span>.</span></a>
+    <nav class="main" aria-label="Pages">
+      <a href="{{ '/' | relative_url }}"{% if page.nav == "home" %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.nav == "research" %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/teaching/' | relative_url }}"{% if page.nav == "teaching" %} aria-current="page"{% endif %}>Teaching</a>
+      <a href="{{ '/album/' | relative_url }}"{% if page.nav == "album" %} aria-current="page"{% endif %}>Album</a>
+      <a href="{{ '/cv/' | relative_url }}"{% if page.nav == "cv" %} aria-current="page"{% endif %}>CV</a>
+    </nav>
+    <div class="cv">
+      <a class="pill" href="{{ '/files/CV_ErickFMolina_sep25.pdf' | relative_url }}">CV ↗</a>
+    </div>
+  </div>
+</header>
+
+<main>
+{{ content }}
+</main>
+
+<footer><div class="wrap"><span>© {{ site.time | date: "%Y" }} Erick F Molina · molinaperez@wisc.edu</span><span>Madison, WI · Mexico City</span></div></footer>
+
+<script>
+(function(){
+  var b=document.getElementById('copy'); if(!b) return;
+  b.addEventListener('click', function(){
+    var el=document.getElementById('email'), t=el.textContent;
+    var done=function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1600)};
+    var sel=function(){var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Selected'};
+    try{navigator.clipboard.writeText(t).then(done,sel)}catch(e){sel()}
+  });
+})();
+</script>
+</body>
+</html>
