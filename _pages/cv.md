@@ -13,8 +13,8 @@ redirect_from:
 <div class="wrap">
 <div class="content">
 <div class="cvgrid">
-<a class="cvcard" href="/files/CV_ErickFMolina_sep25.pdf"><b>English</b>Full academic CV<span>Open PDF ↗</span></a>
-<a class="cvcard" href="/files/CV_ErickFMolina_sep25_es.pdf" lang="es"><b>Español</b>CV académico completo<span>Abrir PDF ↗</span></a>
+<a class="cvcard" href="/files/CV_ErickFMolina_sep25.pdf"><b>English</b>CV<span>Open PDF ↗</span></a>
+<a class="cvcard" href="/files/CV_ErickFMolina_sep25_es.pdf" lang="es"><b>Español</b>CV<span>Abrir PDF ↗</span></a>
 </div>
 </div>
 </div>

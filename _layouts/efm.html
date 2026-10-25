@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.nav == "home" %}Erick F Molina{% else %}{{ page.title }} · Erick F Molina{% endif %}</title>
+<title>{% if page.nav == "home" %}Erick F Molina Pérez{% else %}{{ page.title }} · Erick F Molina Pérez{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -32,18 +32,17 @@
 {{ content }}
 </main>
 
-<footer><div class="wrap"><span>© {{ site.time | date: "%Y" }} Erick F Molina · molinaperez@wisc.edu</span><span>Madison, WI · Mexico City</span></div></footer>
+<footer><div class="wrap"><span>© {{ site.time | date: "%Y" }} Erick F Molina Pérez · molinaperez@wisc.edu</span><span>Madison, WI · Mexico City</span></div></footer>
 
 <script>
-(function(){
-  var b=document.getElementById('copy'); if(!b) return;
+document.querySelectorAll('button.copy').forEach(function(b){
   b.addEventListener('click', function(){
-    var el=document.getElementById('email'), t=el.textContent;
+    var el=b.parentNode.querySelector('.email'), t=el.textContent;
     var done=function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1600)};
     var sel=function(){var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Selected'};
     try{navigator.clipboard.writeText(t).then(done,sel)}catch(e){sel()}
   });
-})();
+});
 </script>
 </body>
 </html>

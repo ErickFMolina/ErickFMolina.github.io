@@ -40,11 +40,12 @@ nav.main a:hover{color:var(--ink)}
 .pill:hover{background:var(--ink);color:var(--paper)}
 
 .hero .wrap{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:56px;align-items:center;padding-block:72px 80px}
-.hero h1{font-family:var(--display);font-weight:600;color:var(--ink);font-size:clamp(3.2rem,8.5vw,6.4rem);line-height:0.94;letter-spacing:-0.045em;margin:0 0 28px}
+.hero h1{font-family:var(--display);font-weight:600;color:var(--ink);font-size:clamp(2.8rem,6.6vw,5.2rem);line-height:0.94;letter-spacing:-0.045em;margin:0 0 28px}
 .role{font-family:var(--display);font-weight:500;color:var(--red);font-size:17px;line-height:1.45;margin:0 0 18px}
 .thesis{font-size:19px;line-height:1.55;color:var(--text);max-width:34ch;margin:0 0 30px;text-wrap:pretty}
 .thesis b{color:var(--ink);font-weight:600}
 .actions{display:flex;gap:10px;flex-wrap:wrap}
+.role + .actions{margin-top:30px}
 .btn{font-family:var(--display);font-weight:500;font-size:14px;padding:11px 20px;text-decoration:none;border:1.5px solid var(--navy);display:inline-block}
 .btn.solid{background:var(--navy);color:var(--on-navy)}
 .btn.solid:hover{background:var(--navy-hover);border-color:var(--navy-hover);color:var(--on-navy)}
@@ -89,9 +90,10 @@ section.block .wrap{display:grid;grid-template-columns:220px minmax(0,1fr);gap:4
 .course .w a{display:block;font-weight:500;margin-top:2px}
 
 .contact-line{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:20px}
+.contact-line .email{font-size:clamp(1.1rem,2.6vw,1.45rem)}
 .email{font-family:var(--display);font-size:clamp(1.25rem,3.2vw,1.75rem);color:var(--ink);font-weight:500;letter-spacing:-0.01em;user-select:all;word-break:break-all}
-#copy{font:inherit;font-size:13px;font-weight:500;background:none;border:1px solid var(--line);color:var(--text);padding:5px 12px;border-radius:99px;cursor:pointer}
-#copy:hover{border-color:var(--ink);color:var(--ink)}
+button.copy{font:inherit;font-size:13px;font-weight:500;background:none;border:1px solid var(--line);color:var(--text);padding:5px 12px;border-radius:99px;cursor:pointer}
+button.copy:hover{border-color:var(--ink);color:var(--ink)}
 .links{display:flex;gap:24px;flex-wrap:wrap;font-weight:500;font-size:15px}
 
 footer{border-top:1px solid var(--line)}
@@ -135,6 +137,11 @@ ol.slides li{display:grid;grid-template-columns:36px minmax(0,1fr) auto;gap:4px 
 ol.slides .tt{color:var(--ink);font-weight:500}
 ol.slides .fl{display:flex;gap:14px;font-size:14px;font-weight:500;white-space:nowrap}
 @media (max-width:520px){ol.slides li{grid-template-columns:30px minmax(0,1fr)}ol.slides .fl{grid-column:2}}
+.namenote{margin:28px 0 0;border-left:3px solid var(--red);padding:4px 0 4px 20px}
+.namenote .lbl{display:block;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:6px}
+.namenote p{margin:0 0 10px;font-size:15px}
+.namenote p:last-child{margin-bottom:0}
+.namenote b{color:var(--ink);font-weight:600}
 @media (max-width:820px){
   .hero .wrap{grid-template-columns:1fr;gap:48px;padding-block:44px 64px}
   .photo{justify-self:start;max-width:280px}
