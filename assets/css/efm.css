@@ -126,6 +126,8 @@ nav.main a[aria-current="page"]{color:var(--ink);box-shadow:inset 0 -2px 0 var(-
 .pagehead h1.course-title{font-size:clamp(2.1rem,5vw,3.4rem);text-wrap:balance;max-width:20ch}
 .cmeta{display:flex;flex-wrap:wrap;gap:6px 0;font-size:14.5px;color:var(--muted)}
 .cmeta span+span::before{content:"·";margin:0 10px;color:var(--line)}
+.cowith{margin-top:14px;border-left:3px solid var(--red);padding:2px 0 2px 14px;font-size:16px;color:var(--text)}
+.cowith b{color:var(--ink);font-weight:600}
 .content.wide{max-width:none}.content.wide>p,.content.wide>ol.topics{max-width:68ch}
 .note{color:var(--muted);font-size:15px}
 ol.topics{margin:0;padding-left:1.2em}ol.topics li{margin-bottom:6px}ol.topics li::marker{color:var(--red);font-weight:500}
