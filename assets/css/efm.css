@@ -1,7 +1,7 @@
 
 /* Erick F Molina — site styles. Palette: navy for structure and links, cardinal red for accents. */
 :root{
-  --paper:#FCFCFA; --ink:#141B2B; --text:#474B53; --muted:#6B7079;
+  --paper:#FFFFFF; --ink:#141B2B; --text:#474B53; --muted:#6B7079;
   --navy:#1F3D6B; --navy-hover:#173055; --red:#B3202A;
   --line:#E9EAEC; --tint-red:#FBE9EA; --tint-red-ink:#8E1A22; --tint-navy:#E8EDF5; --tint-navy-ink:#1A3459;
   --on-navy:#FFFFFF; --photo-block:#1F3D6B;
