@@ -28,7 +28,7 @@ permalink: /fr/
 <div class="wrap">
 <h2 class="label">À propos</h2>
 <div class="content">
-<p>Je suis un économiste du développement en devenir. Je suis en quatrième année de doctorat en Agricultural and Applied Economics à la University of Wisconsin–Madison.</p>
+<p>Je suis un économiste du développement en devenir. Je suis en quatrième année de doctorat en Agricultural and Applied Economics à l'University of Wisconsin–Madison.</p>
 <p>Avant le doctorat, j'ai été Research Fellow à l'ITAM et à la Kellogg School of Management de Northwestern University, où j'ai travaillé sur des expériences de terrain et des analyses économétriques.</p>
 <aside class="namenote">
 <span class="lbl">Sur mon nom</span>

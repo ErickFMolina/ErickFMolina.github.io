@@ -12,7 +12,7 @@ permalink: /es/
 <div class="wrap">
 <div>
 <h1>Erick F.<br>Molina Pérez</h1>
-<p class="role">Estudiante de doctorado, Agricultural and Applied Economics<br>University of Wisconsin–Madison</p>
+<p class="role">Estudiante de PhD, Agricultural and Applied Economics<br>University of Wisconsin–Madison</p>
 <div class="actions">
 <a class="btn solid" href="/es/research/">Investigación</a>
 <a class="btn ghost" href="/es/cv/">CV</a>
