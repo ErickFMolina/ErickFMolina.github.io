@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="page">
-<section class="pagehead"><div class="wrap"><h1>Research</h1><p>Labor justice, conciliation, and institutions in Mexico.</p></div></section>
+<section class="pagehead"><div class="wrap"><h1>Research</h1><p></p></div></section>
 <section class="block plain">
 <div class="wrap">
 <div class="content">

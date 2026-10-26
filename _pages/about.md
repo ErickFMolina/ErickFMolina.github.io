@@ -12,7 +12,7 @@ redirect_from:
 <section class="hero">
 <div class="wrap">
 <div>
-<h1>Erick F<br>Molina Pérez</h1>
+<h1>Erick F.<br>Molina Pérez</h1>
 <p class="role">PhD Student, Agricultural and Applied Economics<br>University of Wisconsin–Madison</p>
 <div class="actions">
 <a class="btn solid" href="/research/">Research</a>
@@ -29,12 +29,12 @@ redirect_from:
 <div class="wrap">
 <h2 class="label">About</h2>
 <div class="content">
-<p>I am a development economist in the making. I am a fourth-year PhD student in the Agricultural and Applied Economics program at the University of Wisconsin–Madison, working on labor justice, conciliation, and institutions in Mexico.</p>
+<p>I am a development economist in the making. I am a fourth-year PhD student in the Agricultural and Applied Economics program at the University of Wisconsin–Madison.</p>
 <p>Before the PhD, I was a Research Fellow at ITAM and at Northwestern University's Kellogg School of Management, working on field experiments and econometric analysis.</p>
 <aside class="namenote">
 <span class="lbl">On my name</span>
 <p>In Mexico, people carry two surnames: the first comes from the father and the second from the mother.</p>
-<p>Molina is my first surname, from my father, and Pérez my second, from my mother. So my last name is <b>Molina Pérez</b>, and my given name is Erick.</p>
+<p>Molina is my first surname, from my father, and Pérez my second, from my mother. So my last name is <b>Molina Pérez</b>, and my given name is Erick; F stands for my middle name.</p>
 </aside>
 <dl class="facts">
 <div><dt>Education</dt><dd>MSc Applied Economics<span>UW–Madison</span></dd></div>
