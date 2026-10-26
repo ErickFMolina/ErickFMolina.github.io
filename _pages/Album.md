@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <div class="page">
-<section class="pagehead"><div class="wrap"><h1>Album</h1><p>Some pictures of my experience in research.</p></div></section>
+<section class="pagehead"><div class="wrap"><h1>Album</h1><p>Some pictures of my experience in research and teaching.</p></div></section>
 <section class="block plain">
 <div class="wrap">
 <div class="album">
@@ -19,6 +19,7 @@ redirect_from:
 <figure><img src="/images/sean_erick_jacopo.jpg" alt="Erick with Professors Sean Higgins and Jacopo Ponticelli" loading="lazy"><figcaption><span>Summer 2022</span>With Professors Sean Higgins and Jacopo Ponticelli.</figcaption></figure>
 <figure><img src="/images/research__ccl.jpg" alt="Core research team at the Mexico City Conciliation Center" loading="lazy"><figcaption><span>Fall 2022</span>The core research team at the Mexico City Conciliation Center.</figcaption></figure>
 <figure><img src="/images/research_team.jpg" alt="Improving Labor Courts research team" loading="lazy"><figcaption><span>Fall 2022</span>Improving Labor Courts research team.</figcaption></figure>
+<figure><img src="/images/hem_summer26.jpg" alt="Erick and Jose Antonio Merchant Cervantes with their Historia Económica de México students at ITAM" loading="lazy"><figcaption><span>Summer 2026</span>With the students of <a href="/eco17100-summer26/" lang="es">Historia Económica de México</a> at ITAM, which I co-taught with Jose Antonio Merchant Cervantes.</figcaption></figure>
 </div>
 </div>
 </section>
