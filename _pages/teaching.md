@@ -2,6 +2,8 @@
 layout: efm
 title: "Teaching"
 nav: teaching
+lang: en
+ref: teaching
 permalink: /teaching/
 redirect_from:
   - /teaching

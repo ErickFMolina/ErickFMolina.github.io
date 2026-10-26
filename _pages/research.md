@@ -2,6 +2,8 @@
 layout: efm
 title: "Research"
 nav: research
+lang: en
+ref: research
 permalink: /research/
 redirect_from:
   - /research

@@ -2,6 +2,8 @@
 layout: efm
 title: "Album"
 nav: album
+lang: en
+ref: album
 permalink: /album/
 redirect_from:
   - /album

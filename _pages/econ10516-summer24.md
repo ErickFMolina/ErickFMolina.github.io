@@ -2,6 +2,8 @@
 layout: efm
 title: "Applied Microeconometrics (Summer 2024)"
 nav: teaching
+lang: en
+ref: econ10516-summer24
 permalink: /econ10516-summer24/
 redirect_from:
   - /econ10516-summer24

@@ -1,5 +1,8 @@
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.efm_i18n[lang] -%}
+{%- assign p = t.prefix -%}
 <!doctype html>
-<html lang="en">
+<html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +13,11 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/efmp-favicon-16.png' | relative_url }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/efmp-apple-touch-icon.png' | relative_url }}">
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{%- if page.ref %}
+{%- for other in site.pages %}{% if other.ref == page.ref and other.lang %}
+<link rel="alternate" hreflang="{{ other.lang }}" href="{{ site.url }}{{ other.url }}">
+{%- endif %}{% endfor %}
+{%- endif %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600&display=swap" rel="stylesheet">
@@ -18,16 +26,28 @@
 <body>
 <header class="top">
   <div class="wrap">
-    <a class="mono" href="{{ '/' | relative_url }}">EM<span>.</span></a>
-    <nav class="main" aria-label="Pages">
-      <a href="{{ '/' | relative_url }}"{% if page.nav == "home" %} aria-current="page"{% endif %}>Home</a>
-      <a href="{{ '/research/' | relative_url }}"{% if page.nav == "research" %} aria-current="page"{% endif %}>Research</a>
-      <a href="{{ '/teaching/' | relative_url }}"{% if page.nav == "teaching" %} aria-current="page"{% endif %}>Teaching</a>
-      <a href="{{ '/album/' | relative_url }}"{% if page.nav == "album" %} aria-current="page"{% endif %}>Album</a>
-      <a href="{{ '/cv/' | relative_url }}"{% if page.nav == "cv" %} aria-current="page"{% endif %}>CV</a>
+    <a class="mono" href="{{ p | append: '/' | relative_url }}">EM<span>.</span></a>
+    <nav class="main" aria-label="{{ t.home }}">
+      <a href="{{ p | append: '/' | relative_url }}"{% if page.nav == "home" %} aria-current="page"{% endif %}>{{ t.home }}</a>
+      <a href="{{ p | append: '/research/' | relative_url }}"{% if page.nav == "research" %} aria-current="page"{% endif %}>{{ t.research }}</a>
+      <a href="{{ p | append: '/teaching/' | relative_url }}"{% if page.nav == "teaching" %} aria-current="page"{% endif %}>{{ t.teaching }}</a>
+      <a href="{{ p | append: '/album/' | relative_url }}"{% if page.nav == "album" %} aria-current="page"{% endif %}>{{ t.album }}</a>
+      <a href="{{ p | append: '/cv/' | relative_url }}"{% if page.nav == "cv" %} aria-current="page"{% endif %}>{{ t.cv }}</a>
     </nav>
-    <div class="cv">
-      <a class="pill" href="{{ '/files/CV_ErickFMolina_sep25.pdf' | relative_url }}">CV ↗</a>
+    <div class="tools">
+      <nav class="langs" aria-label="{{ t.lang_nav }}">
+        {%- for l in site.data.efm_i18n.order -%}
+          {%- assign target = "" -%}
+          {%- if page.ref -%}
+            {%- for other in site.pages -%}
+              {%- if other.ref == page.ref and other.lang == l -%}{%- assign target = other.url -%}{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+          {%- if target == "" -%}{%- assign target = site.data.efm_i18n[l].prefix | append: "/" -%}{%- endif -%}
+          <a href="{{ target | relative_url }}" lang="{{ l }}" hreflang="{{ l }}" title="{{ site.data.efm_i18n[l].label }}"{% if l == lang %} aria-current="true"{% endif %}>{{ l | upcase }}</a>
+        {%- endfor -%}
+      </nav>
+      <a class="pill cv" href="{{ t.cv_pdf | relative_url }}">CV ↗</a>
     </div>
   </div>
 </header>
@@ -36,14 +56,15 @@
 {{ content }}
 </main>
 
-<footer><div class="wrap"><span>© {{ site.time | date: "%Y" }} Erick F Molina Pérez · molinaperez@wisc.edu</span><span>Madison, WI · Mexico City</span></div></footer>
+<footer><div class="wrap"><span>© {{ site.time | date: "%Y" }} Erick F Molina Pérez · molinaperez@wisc.edu</span><span>{{ t.places }}</span></div></footer>
 
 <script>
 document.querySelectorAll('button.copy').forEach(function(b){
+  var label=b.textContent;
   b.addEventListener('click', function(){
     var el=b.parentNode.querySelector('.email'), t=el.textContent;
-    var done=function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1600)};
-    var sel=function(){var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Selected'};
+    var done=function(){b.textContent='{{ t.copied }}';setTimeout(function(){b.textContent=label},1600)};
+    var sel=function(){var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='{{ t.selected }}'};
     try{navigator.clipboard.writeText(t).then(done,sel)}catch(e){sel()}
   });
 });

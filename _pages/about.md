@@ -2,6 +2,8 @@
 layout: efm
 title: "Home"
 nav: home
+lang: en
+ref: home
 permalink: /
 redirect_from:
   - /about/

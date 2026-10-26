@@ -1,0 +1,43 @@
+order: [en, es, fr]
+en:
+  prefix: ""
+  label: English
+  home: Home
+  research: Research
+  teaching: Teaching
+  album: Album
+  cv: CV
+  cv_pdf: /files/CV_ErickFMolina_oct26.pdf
+  places: Madison, WI · Mexico City
+  copy: Copy
+  copied: Copied
+  selected: Selected
+  lang_nav: Language
+es:
+  prefix: /es
+  label: Español
+  home: Inicio
+  research: Investigación
+  teaching: Docencia
+  album: Álbum
+  cv: CV
+  cv_pdf: /files/CV_ErickFMolina_oct26_es.pdf
+  places: Madison, WI · Ciudad de México
+  copy: Copiar
+  copied: Copiado
+  selected: Seleccionado
+  lang_nav: Idioma
+fr:
+  prefix: /fr
+  label: Français
+  home: Accueil
+  research: Recherche
+  teaching: Enseignement
+  album: Album
+  cv: CV
+  cv_pdf: /files/CV_ErickFMolina_oct26.pdf
+  places: Madison, WI · Mexico
+  copy: Copier
+  copied: Copié
+  selected: Sélectionné
+  lang_nav: Langue
