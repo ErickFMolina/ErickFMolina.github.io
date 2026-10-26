@@ -13,7 +13,7 @@ permalink: /es/teaching/
 <div class="wrap">
 <div class="content">
 <h3>Profesor Titular</h3>
-<div class="course"><div class="n">Historia Económica de México</div><div class="i">Licenciatura · ITAM</div><div class="w">Verano 2026</div></div>
+<div class="course"><div class="n">Historia Económica de México</div><div class="i">Licenciatura · ITAM</div><div class="w">Verano 2026<a href="/es/eco17100-summer26/">Página del curso</a></div></div>
 <div class="course"><div class="n">Applied Microeconometrics</div><div class="i">Licenciatura · ITAM</div><div class="w">Verano 2024<a href="/es/econ10516-summer24/">Página del curso</a></div></div>
 <h3>Profesor Adjunto</h3>
 <div class="course"><div class="n">Applied Microeconomic Theory (AAE 635)</div><div class="i">Maestría · UW–Madison</div><div class="w">Otoño 2026</div></div>

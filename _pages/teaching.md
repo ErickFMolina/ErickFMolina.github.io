@@ -16,7 +16,7 @@ redirect_from:
 <div class="wrap">
 <div class="content">
 <h3>Instructor</h3>
-<div class="course"><div class="n" lang="es">Historia Económica de México</div><div class="i">Undergraduate · ITAM</div><div class="w">Summer 2026</div></div>
+<div class="course"><div class="n" lang="es">Historia Económica de México</div><div class="i">Undergraduate · ITAM</div><div class="w">Summer 2026<a href="/eco17100-summer26/">Course page</a></div></div>
 <div class="course"><div class="n">Applied Microeconometrics</div><div class="i">Undergraduate · ITAM</div><div class="w">Summer 2024<a href="/econ10516-summer24/">Course page</a></div></div>
 <h3>Teaching assistant</h3>
 <div class="course"><div class="n">Applied Microeconomic Theory (AAE 635)</div><div class="i">Master's · UW–Madison</div><div class="w">Fall 2026</div></div>
