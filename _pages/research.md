@@ -16,8 +16,8 @@ redirect_from:
 <div class="content">
 <h3>Publications</h3>
 <div class="paper">
-<div class="t">Labour Justice Reform in Mexico: Progress and Challenges</div>
-<div class="m"><span class="tag red">Forthcoming</span>with Joyce Sadka · <a href="https://digitalcommons.osgoode.yorku.ca/cllpj/"><em>Comparative Labor Law &amp; Policy Journal</em></a></div>
+<div class="t"><a href="https://doi.org/10.60082/2819-2567.1160">Labour Justice Reform in Mexico: Progress and Challenges</a></div>
+<div class="m"><span class="tag navy">CLLPJ</span>with Joyce Sadka · <em>Comparative Labor Law &amp; Policy Journal</em> 46(3): 423–444, 2026 · <a href="https://digitalcommons.osgoode.yorku.ca/cgi/viewcontent.cgi?article=1160&amp;context=cllpj">PDF</a></div>
 </div>
 <h3>Research assistance</h3>
 <div class="paper">
